@@ -1,8 +1,8 @@
+## ⚡ Stats
+
+<a href="https://github.com/Electwix">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Electwix&count_private=true&theme=radical&show_icons=true&hide=stars,prs"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Electwix&count_private=true&theme=radical&show_icons=true"/>
 
 
-<!--
-**ElecTwix/Electwix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Electwix&show_icons=true&theme=radical" />
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ElecTwix)](https://github.com/anuraghazra/github-readme-stats)
