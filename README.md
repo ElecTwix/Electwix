@@ -2,14 +2,15 @@
 # Hello People 
 ## I'm ElecTwix
 
-## ⚡ Stats
+## ⚡ Stats 
 
 <a href="https://github.com/Electwix">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Electwix&count_private=true&theme=radical&show_icons=true&hide=stars"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Electwix&count_private=true&theme=radical&show_icons=true"/>
 
-  
+## Hit Total
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FElecTwix&count_bg=%23FF0071&title_bg=%23555555&icon=&icon_color=%23724040&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ff016e)
