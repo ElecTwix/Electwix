@@ -9,6 +9,11 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Electwix&count_private=true&theme=radical&show_icons=true"/>
 
+[![ElectwixGrap](https://activity-graph.herokuapp.com/graph?username=Electwix&hide_border=true&theme=xcode)](https://github.com/ElecTwix)
+  
+
+  
+  
 ## Hit Total
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FElecTwix&count_bg=%23FF0071&title_bg=%23555555&icon=&icon_color=%23724040&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
