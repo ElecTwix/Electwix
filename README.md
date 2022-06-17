@@ -1,6 +1,5 @@
 
-# Hello People 
-## I'm ElecTwix
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=E61DF7&lines=Hello+I'm+ElecTwix)](https://git.io/typing-svg)
 
 ## ⚡ Stats 
 
@@ -11,7 +10,7 @@
 
 [![ElectwixGrap](https://activity-graph.herokuapp.com/graph?username=Electwix&hide_border=true&theme=xcode)](https://github.com/ElecTwix)
   
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Electwix)]([https://github.com/ryo-ma/github-profile-trophy](https://github.com/ElecTwix))
   
   
 ## Hit Total
