@@ -1,8 +1,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=E61DF7&lines=Hello+I'm+ElecTwix)](https://git.io/typing-svg)
 
+
+
 ## ⚡ Stats 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=electwix&theme=dark" alt="electwix" /></p>
 <a href="https://github.com/Electwix">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Electwix&count_private=true&theme=radical&show_icons=true&hide=stars"/>
 
