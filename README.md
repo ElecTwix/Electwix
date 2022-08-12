@@ -21,6 +21,7 @@
   
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ff016e)
+![](https://img.shields.io/badge/Linux-Arch-informational?style=flat&logo=archlinux&logoColor=white&color=ff016e)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=ff016e)
 ![](https://img.shields.io/badge/Editor-CLion-informational?style=flat&logo=CLion&logoColor=white&color=ff016e)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=ff016e)
@@ -28,11 +29,13 @@
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=ff016e)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=ff016e)
 ![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=ff016e)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=ff016e)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=ff016e)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ff016e)
 ![](https://img.shields.io/badge/Tools-SteamCMD-informational?style=flat&logo=steam&logoColor=white&color=ff016e)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ff016e)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=ff016e)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=ff016e)
 
               
 
