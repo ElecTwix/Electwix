@@ -1,7 +1,6 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=E61DF7&lines=Hello+I'm+ElecTwix)](https://git.io/typing-svg)
 
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=ElecTwix's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello%20Welcome%20to%20%20my%20profile%20&descAlignY=51&descAlign=62)
 
 ## ⚡ Stats 
 
