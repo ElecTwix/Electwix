@@ -1,4 +1,5 @@
 
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=ElecTwix's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello%20Welcome%20to%20%20my%20profile%20&descAlignY=51&descAlign=62)
 
@@ -16,7 +17,6 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Electwix)]([https://github.com/ryo-ma/github-profile-trophy](https://github.com/ElecTwix))
   
-  <img height="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Electwix&count_private=true&theme=radical&show_icons=true&langs_count=10"/>
   
 ## Hit Total
 ![](https://komarev.com/ghpvc/?username=ElecTwix)
@@ -44,6 +44,6 @@
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=ff016e)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=ff016e)
 
-              
+</div>
 
 
