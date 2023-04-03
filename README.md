@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=ElecTwix's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20%20my%20profile%20&descAlignY=51&descAlign=62)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=ElecTwix's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20%20my%20profile%20&descAlignY=51&descAlign=62)](https://electwix.bss.design/))
 
 ## ⚡ Stats 
 
@@ -13,7 +13,7 @@
 
 
 
-[![ElectwixGrap](https://github-readme-activity-graph.cyclic.app/graph?username=Electwix&hide_border=true&theme=xcode)](https://github.com/ElecTwix)
+[![ElectwixGrap](https://github-readme-activity-graph.cyclic.app/graph?username=Electwix&hide_border=true&theme=xcode)](https://electwix.bss.design/)
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Electwix)]([https://github.com/ryo-ma/github-profile-trophy](https://github.com/ElecTwix))
   
@@ -24,31 +24,31 @@
   
 ## Skills
 
-[![](https://github-widgetbox.vercel.app/api/skills?names=go,bash,js,cpp,c,python,html,postgresql,csharp,rust,json,lua,markdown&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![](https://github-widgetbox.vercel.app/api/skills?names=go,bash,js,cpp,c,python,html,postgresql,csharp,rust,json,lua,markdown&includeNames=true)](https://electwix.bss.design/)
   
- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,nodejs,nginx,aws&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+ [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,nodejs,nginx,aws&includeNames=true)](https://electwix.bss.design/)
   
- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,bootstrap,tailwind,dotnetcore,dotnet&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+ [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,bootstrap,tailwind,dotnetcore,dotnet&includeNames=true)](https://electwix.bss.design/)
   
- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,vscode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+ [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,vscode&includeNames=true)](https://electwix.bss.design/)
   
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ff016e)
-![](https://img.shields.io/badge/Linux-Arch-informational?style=flat&logo=archlinux&logoColor=white&color=ff016e)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=ff016e)
-![](https://img.shields.io/badge/Editor-CLion-informational?style=flat&logo=CLion&logoColor=white&color=ff016e)
-![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=ff016e)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=ff016e)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=ff016e)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=ff016e)
-![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=ff016e)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=ff016e)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=ff016e)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ff016e)
-![](https://img.shields.io/badge/Tools-SteamCMD-informational?style=flat&logo=steam&logoColor=white&color=ff016e)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ff016e)
-![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=ff016e)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=ff016e)
+[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ff016e)](https://electwix.bss.design/)
+[![](https://img.shields.io/badge/Linux-Arch-informational?style=flat&logo=archlinux&logoColor=white&color=ff016e)](https://electwix.bss.design/)
+[![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=ff016e)](https://electwix.bss.design/)
+[![](https://img.shields.io/badge/Editor-CLion-informational?style=flat&logo=CLion&logoColor=white&color=ff016e)](https://electwix.bss.design/)
+[![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=ff016e)](https://electwix.bss.design/)
+[![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=ff016e)](https://electwix.bss.design/)
+[![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=ff016e)](https://electwix.bss.design/)
+[![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=ff016e)](https://electwix.bss.design/)
+[![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=ff016e)](https://electwix.bss.design/)
+[![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=ff016e)](https://electwix.bss.design/)
+[![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=ff016e)](https://electwix.bss.design/)
+[![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ff016e)](https://electwix.bss.design/)
+[![](https://img.shields.io/badge/Tools-SteamCMD-informational?style=flat&logo=steam&logoColor=white&color=ff016e)](https://electwix.bss.design/)
+[![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ff016e)](https://electwix.bss.design/)
+[![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=ff016e)](https://electwix.bss.design/)
+[![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=ff016e)](https://electwix.bss.design/)
 
 </div>
 
