@@ -13,7 +13,7 @@
 
 
 
-[![ElectwixGrap](https://github-readme-activity-graph.cyclic.app/graph?username=Electwix&hide_border=true&theme=xcode)](https://electwix.bss.design/)
+[![ElectwixGrap](https://github-readme-activity-graph.vercel.app/graph?username=Electwix&hide_border=true&theme=xcode)](https://electwix.bss.design/)
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Electwix)]([https://github.com/ryo-ma/github-profile-trophy](https://github.com/ElecTwix))
   
