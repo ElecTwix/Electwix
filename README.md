@@ -24,11 +24,11 @@
   
 ## Skills
 
-[![](https://github-widgetbox.vercel.app/api/skills?names=go,bash,js,cpp,c,python,html,postgresql,csharp,rust,json,lua,markdown&includeNames=true)](https://electwix.bss.design/)
+[![](https://github-widgetbox.vercel.app/api/skills?names=go,bash,js,cpp,c,csharp,rust,x86,python,PostgreSQL,yaml,json,lua,markdown&includeNames=true)](https://electwix.bss.design/)
   
  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,nodejs,nginx,aws&includeNames=true)](https://electwix.bss.design/)
   
- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,bootstrap,tailwind,dotnetcore,dotnet&includeNames=true)](https://electwix.bss.design/)
+ [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,svelte,bootstrap,tailwind,dotnetcore,dotnet&includeNames=true)](https://electwix.bss.design/)
   
  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,vscode&includeNames=true)](https://electwix.bss.design/)
   
