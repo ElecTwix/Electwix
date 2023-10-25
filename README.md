@@ -11,6 +11,7 @@
 <a href="https://github.com/Electwix">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Electwix&count_private=true&theme=radical&show_icons=true&hide=stars"/>
 
+[![An image of @electwix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/electwix)](https://holopin.io/@electwix)
 
 
 [![ElectwixGrap](https://github-readme-activity-graph.vercel.app/graph?username=Electwix&hide_border=true&theme=xcode)](https://electwix.bss.design/)
