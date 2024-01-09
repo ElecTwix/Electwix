@@ -29,7 +29,7 @@
   
  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,nodejs,nginx,aws&includeNames=true)](https://electwix.dev/)
   
- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,svelte,bootstrap,tailwind,dotnetcore,dotnet&includeNames=true)](electwix.dev)
+ [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,svelte,react,bootstrap,tailwind,dotnetcore,dotnet&includeNames=true)](electwix.dev)
   
  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,vscode&includeNames=true)](https://electwix.dev)
   
