@@ -5,7 +5,7 @@
 
 ## ⚡ Stats 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ElecTwix&data=followers,repositories,stars,commits)]()
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ElecTwix&data=followers,repositories,stars,commits&theme=darkmode)]()
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=electwix&theme=dark" alt="electwix" /></p>
 <a href="https://github.com/Electwix">
@@ -16,7 +16,7 @@
 
 [![ElectwixGrap](https://github-readme-activity-graph.vercel.app/graph?username=Electwix&hide_border=true&theme=xcode)](https://electwix.dev/)
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Electwix)]([https://github.com/ryo-ma/github-profile-trophy](https://github.com/ElecTwix))
+[![trophy](https://github-profile-trophy.vercel.app/?username=Electwix&theme=onedark)]([https://github.com/ryo-ma/github-profile-trophy](https://github.com/ElecTwix))
   
   
 ## Hit Total
@@ -25,13 +25,13 @@
   
 ## Skills
 
-[![](https://github-widgetbox.vercel.app/api/skills?names=go,bash,js,ts,cpp,c,csharp,rust,x86,python,PostgreSQL,yaml,json,lua,markdown&includeNames=true)](https://electwix.dev/)
+[![](https://github-widgetbox.vercel.app/api/skills?names=go,bash,js,ts,cpp,c,csharp,rust,x86,python,PostgreSQL,yaml,json,lua,markdown&includeNames=true&theme=darkmode)](https://electwix.dev/)
   
- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,nodejs,nginx,aws&includeNames=true)](https://electwix.dev/)
+ [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,nodejs,nginx,aws&includeNames=true&theme=darkmode)](https://electwix.dev/)
   
- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,svelte,react,bootstrap,tailwind,dotnetcore,dotnet&includeNames=true)](electwix.dev)
+ [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,svelte,react,bootstrap,tailwind,dotnetcore,dotnet&includeNames=true&theme=darkmode)](electwix.dev)
   
- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,vscode&includeNames=true)](https://electwix.dev)
+ [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,vscode&includeNames=true&theme=darkmode)](https://electwix.dev)
   
 ## 🔧 Technologies & Tools
 [![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ff016e)](electwix.dev)
